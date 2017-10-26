@@ -1,4 +1,4 @@
-Py Simple HTTP Server
+SimPY Server
 =====================
 
 Simple HTTP Server with socket programming with Python 3.
